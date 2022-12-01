@@ -4,7 +4,9 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </div>
-<p align="right">asass</p>
+<div id="header__text" align="right">
+<p>asass</p>
+</div>
 
 
 
