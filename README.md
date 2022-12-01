@@ -6,7 +6,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=telegram&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](@Pegases79)
 - :mortar_board: Студент Web-разработки в Практикуме
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
