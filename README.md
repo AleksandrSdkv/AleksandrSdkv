@@ -2,8 +2,7 @@
 ## Меня зовут Александр!
 
 - :zap: Живу в Казани.
-- :seedling: Изучаю JavaScript.
-- :mortar_board: Студент Web-разработки в Практикуме
+- :seedling: Познаю JavaScript.
 - :mailbox:Контактные данные: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Pegases79)
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
