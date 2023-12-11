@@ -19,6 +19,7 @@ ___
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/8f11503c6b9a64d74ab121ac86ce1c6c6ac9c949/icons/axios.svg" title="axios" **alt="axios" width="40" height="40"/>
     </div>
    
 
