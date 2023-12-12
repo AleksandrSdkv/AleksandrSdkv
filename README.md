@@ -3,7 +3,7 @@
 
 - :zap: Живу в Казани.
 - :seedling: Познаю JavaScript.
-- :mailbox:Контактные данные: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Pegases79)
+- :mailbox: Контактные данные: [![Linkedin Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Pegases79)
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
 </div>
